@@ -29,7 +29,7 @@ My personal CSS &amp; SASS guidelines, decided to post them here so I would visi
 
 14- Put some comments in your SASS if you're doing something that might confuse the next developer.
 
-15- When you copy someone els's css please READ it before you do so, it will take you more time trying to figure out why is it causing issues after production.
+15- When you copy someone else's css please READ it before you do so, it will take you more time trying to figure out why is it causing issues after production.
 
 16- If you are the type to include a whole css library and end up using only few lines from that library. Consider a career change.
 
