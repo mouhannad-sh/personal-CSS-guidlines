@@ -29,6 +29,10 @@ My personal CSS &amp; SASS guidelines, decided to post them here so I would visi
 
 14- Put some comments in your SASS if you're doing something that might confuse the next developer.
 
-15- seriously don't @extend when you can add that class to your HTML (everytime you do that an imaginary puppy dies)
+15- When you copy someone els's css please READ it before you do so, it will take you more time trying to figure out why is it causing issues after production.
+
+16- If you are the type to include a whole css library and end up using only few lines from that library. Consider a career change.
+
+17- seriously don't @extend when you can add that class to your HTML (everytime you do that an imaginary puppy dies)
 
 .... to be continued 
