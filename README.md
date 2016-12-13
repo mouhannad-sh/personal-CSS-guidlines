@@ -17,7 +17,7 @@ My personal CSS &amp; SASS guidelines, decided to post them here so I would visi
 
 8- DO NOT dublicate IDs, seriously stoooop!!
 
-9- DO us all a favor and write ":first-of-type" instead of ":nth-of-type(1)"
+9- DO us all a favor and write ":first-of-type" instead of ":nth-of-type(1)"...
 
 10- Read about CSS variables (yes CSS variables is now a thing)
 
