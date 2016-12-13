@@ -33,6 +33,8 @@ My personal CSS &amp; SASS guidelines, decided to post them here so I would visi
 
 16- If you are the type to include a whole css library and end up using only few lines from that library. Consider a career change.
 
+18- If you are a back-end developer, don't write CSS, please let a front end dev write the CSS pretty please, like seriously don't!
+
 17- seriously don't @extend when you can add that class to your HTML (everytime you do that an imaginary puppy dies)
 
 .... to be continued 
