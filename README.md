@@ -7,7 +7,7 @@ My personal CSS &amp; SASS guidelines, decided to post them here so I would visi
 
 3- If you have "variables.scss" or a file which you '@import' in every other .scss file, DO NOT write any CSS make sure that your code includes only variables and @mixins DO NOT write sass to generate CSS inside of that file because it's going to be dublicated in every file that you '@import' it in.
 
-4- Modulize your CSS and have some utility classes ready before you start the build this practice will keep your CSS file size to minimal whihc results in better page load speed.
+4- Modulize your CSS and have some utility classes ready before you start the build this practice will keep your CSS file size to minimal which results in better page load speed.
 
 5- DO NOT confuse browsers with your selectors, yah yah! browsers are smart (except for IE which is an abomination) however rendering big ass selectors doesn't help.
 
