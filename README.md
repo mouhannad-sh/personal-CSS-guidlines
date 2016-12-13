@@ -13,7 +13,7 @@ My personal CSS &amp; SASS guidelines, decided to post them here so I would visi
 
 6- Keep your CSS organized or the next developer to deal with your code will curse you to death! 
 
-7- Browsers read CSS selectors from right to left consider that when you style a '<ul>' , '<ol>' or '<dl>'
+7- Browsers read CSS selectors from right to left consider that when you style a `<ul>` , `<ol>` or `<dl>`
 
 8- DO NOT dublicate IDs, seriously stoooop!!
 
