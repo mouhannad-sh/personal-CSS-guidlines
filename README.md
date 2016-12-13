@@ -21,7 +21,7 @@ My personal CSS &amp; SASS guidelines, decided to post them here so I would visi
 
 10- Read about CSS variables (yes CSS variables is now a thing)
 
-11- Writing SASS doens't mean modulization out of the picture.
+11- Writing SASS doesn't mean modulization out of the picture.
 
 12- Use emmet and stop wasting your time.
 
